@@ -1,1 +1,1 @@
-# price-of-convenience
+Code and report are licensed under MIT. Data remains under its original licence; see DATASOURCES.md.
